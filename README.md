@@ -155,3 +155,4 @@ Collection of Awesome Repos based on topic :zap:
 * [Smartphone into 3D Controller](https://github.com/konaraddio/web-riimote)
 * [Cheatsheet for Programming Languages, DB and so on](https://github.com/chubin/cheat.sh)
 * [reveal-md: Create Presentation from Markdown](https://github.com/webpro/reveal-md)
+* [Photon: Python Web Crawler](https://github.com/s0md3v/Photon)
