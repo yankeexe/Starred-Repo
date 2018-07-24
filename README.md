@@ -92,6 +92,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Frontend Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [System Design Interview](https://github.com/donnemartin/system-design-primer)
+* [Java Interview](https://github.com/crossoverJie/Java-Interview)
 
 ## Javascript
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
