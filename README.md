@@ -16,7 +16,7 @@ Collection of Awesome Repos so I can find them easier based on topic :zap:
 
 
 ## AI, ML, DL
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning){:target="_blank"}
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Dino Jump](https://github.com/ivanseidel/IAMDinosaur)
 * [Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
