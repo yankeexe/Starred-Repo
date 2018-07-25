@@ -160,3 +160,4 @@ Collection of Awesome Repos based on topic :zap:
 * [reveal-md: Create Presentation from Markdown](https://github.com/webpro/reveal-md)
 * [Photon: Python Web Crawler](https://github.com/s0md3v/Photon)
 * [Scrapy: Python Web Crawler](https://github.com/scrapy/scrapy)
+* [Crypto Paper: All About Online Security](https://github.com/cryptoseb/CryptoPaper)
