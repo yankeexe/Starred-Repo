@@ -112,6 +112,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Hacker 101](https://github.com/Hacker0x01/hacker101)
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 * [asmttpd: Web Server](https://github.com/nemasu/asmttpd)
+* [netdata: Realtime Performance and Health Monitoring](https://github.com/firehol/netdata)
 
 
 ## Mobile Development
