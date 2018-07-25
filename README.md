@@ -159,3 +159,4 @@ Collection of Awesome Repos based on topic :zap:
 * [Cheatsheet for Programming Languages, DB and so on](https://github.com/chubin/cheat.sh)
 * [reveal-md: Create Presentation from Markdown](https://github.com/webpro/reveal-md)
 * [Photon: Python Web Crawler](https://github.com/s0md3v/Photon)
+* [Scrapy: Python Web Crawler](https://github.com/scrapy/scrapy)
