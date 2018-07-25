@@ -40,6 +40,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Graphql Yoga](https://github.com/prismagraphql/graphql-yoga)
 * [Yargs](https://github.com/yargs/yargs)
 * [deno: Secure Typescript Runtime on V8](https://github.com/ry/deno)
+* [Graphql on Postgres](https://github.com/hasura/graphql-engine)
 
 
 ## BOT
