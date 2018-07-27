@@ -121,6 +121,7 @@ Collection of Awesome Repos based on topic :zap:
 
 ## Learning Resources
 * #### [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science/tree/dev)
+* [Awesome Everything](https://github.com/sindresorhus/awesome)
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Awesome AMAs](https://github.com/sindresorhus/amas)
