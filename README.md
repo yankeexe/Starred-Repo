@@ -75,6 +75,7 @@ Collection of Awesome Repos based on topic :zap:
 * [React Drag and Drop](https://github.com/atlassian/react-beautiful-dnd)
 * [React Table Component](https://github.com/schrodinger/fixed-data-table-2)
 * [React Animation](https://github.com/react-tools/react-move)
+* [React Spring](https://github.com/drcmda/react-spring)
 * [Heroku Build Pack for create-react-app](https://github.com/mars/create-react-app-buildpack)
 
 ## GitHub
