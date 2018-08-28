@@ -142,6 +142,7 @@ Collection of Awesome Repos based on topic :zap:
 * [What happens when](https://github.com/alex/what-happens-when)
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 * [Awesome SelfHosting](https://github.com/Kickball/awesome-selfhosted)
+* [Lemonade Stand: Financial Support for Open Source](https://github.com/nayafia/lemonade-stand)
 
 
 ## Utilities
