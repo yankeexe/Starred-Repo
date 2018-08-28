@@ -145,6 +145,7 @@ Collection of Awesome Repos based on topic :zap:
 
 
 ## Utilities
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech)
 * [Disable Risky Windows Features](https://github.com/securitywithoutborders/hardentools)
 * [Docz: Documentation](https://github.com/pedronauck/docz)
