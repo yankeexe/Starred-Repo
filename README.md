@@ -29,6 +29,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Dexter: Code by Talking](https://github.com/teamsudocode/dexter)
 * [Tensorflow JS](https://github.com/tensorflow/tfjs)
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
+* [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 
 ## Backend
