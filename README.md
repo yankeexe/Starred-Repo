@@ -115,6 +115,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 * [asmttpd: Web Server](https://github.com/nemasu/asmttpd)
 * [netdata: Realtime Performance and Health Monitoring](https://github.com/firehol/netdata)
+* [Test Your Sys Admin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 
 
 ## Mobile Development
