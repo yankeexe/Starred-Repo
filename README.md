@@ -30,6 +30,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Tensorflow JS](https://github.com/tensorflow/tfjs)
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+* [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 
 ## Backend
