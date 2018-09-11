@@ -149,6 +149,7 @@ Collection of Awesome Repos based on topic :zap:
 
 
 ## Utilities
+* [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech)
 * [Disable Risky Windows Features](https://github.com/securitywithoutborders/hardentools)
