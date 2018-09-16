@@ -156,6 +156,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Docz: Documentation](https://github.com/pedronauck/docz)
 * [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
 * [Public JSON API](https://github.com/toddmotto/public-apis)
+* [Security Related API](https://github.com/deralexxx/security-apis)
 * [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 * [ReLaXed: Create PDF doc using Web Technologies](https://github.com/RelaxedJS/ReLaXed)
 * [Carbon: Programming Screenshot](https://github.com/dawnlabs/carbon)
