@@ -173,3 +173,5 @@ Collection of Awesome Repos based on topic :zap:
 * [Photon: Python Web Crawler](https://github.com/s0md3v/Photon)
 * [Scrapy: Python Web Crawler](https://github.com/scrapy/scrapy)
 * [Crypto Paper: All About Online Security](https://github.com/cryptoseb/CryptoPaper)
+* [OS Tutorial: How to create OS from Scratch](https://github.com/cfenollosa/os-tutorial)
+
