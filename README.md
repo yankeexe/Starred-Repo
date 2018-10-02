@@ -176,4 +176,6 @@ Collection of Awesome Repos based on topic :zap:
 * [Scrapy: Python Web Crawler](https://github.com/scrapy/scrapy)
 * [Crypto Paper: All About Online Security](https://github.com/cryptoseb/CryptoPaper)
 * [OS Tutorial: How to create OS from Scratch](https://github.com/cfenollosa/os-tutorial)
+* [Paper with Codes: Research Papers](https://github.com/zziz/pwc)
+* [Free for Dev: A list of SaaS, PaaS and IaaS free tiers](https://github.com/ripienaar/free-for-dev#analytics-events-and-statistics)
 
