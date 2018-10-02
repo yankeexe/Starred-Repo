@@ -105,6 +105,8 @@ Collection of Awesome Repos based on topic :zap:
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Book: You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 * [Book: The JS Way](https://github.com/bpesquet/thejsway)
+* [Book: Practical Modern Javascript](https://github.com/mjavascript/practical-modern-javascript)
+* [Book: Mastering Modular Javascript](https://github.com/mjavascript/mastering-modular-javascript)
 * [30 Seconds of Code](https://github.com/Chalarangelo/30-seconds-of-code)
 * [Modern Javascript Tutorial](https://github.com/iliakan/javascript-tutorial-en)
 * [Javascript Style Guide](https://github.com/standard/standard)
