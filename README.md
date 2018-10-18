@@ -84,6 +84,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Learn Git Branching](https://github.com/pcottle/learnGitBranching)
 * [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [How to use GitHub](https://github.com/llSourcell/How-to-Use-GitHub)
+* [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 ## Interview
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -110,6 +111,7 @@ Collection of Awesome Repos based on topic :zap:
 * [30 Seconds of Code](https://github.com/Chalarangelo/30-seconds-of-code)
 * [Modern Javascript Tutorial](https://github.com/iliakan/javascript-tutorial-en)
 * [Javascript Style Guide](https://github.com/standard/standard)
+* [scroll 33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 
 
 ## Linux 
@@ -152,6 +154,7 @@ Collection of Awesome Repos based on topic :zap:
 
 ## Utilities
 * [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech)
 * [Disable Risky Windows Features](https://github.com/securitywithoutborders/hardentools)
