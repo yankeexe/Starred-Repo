@@ -150,6 +150,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 * [Awesome SelfHosting](https://github.com/Kickball/awesome-selfhosted)
 * [Lemonade Stand: Financial Support for Open Source](https://github.com/nayafia/lemonade-stand)
+* [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser)
 
 
 ## Utilities
