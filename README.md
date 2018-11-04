@@ -102,6 +102,7 @@ Collection of Awesome Repos based on topic :zap:
 
 ## Javascript
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/):fire:
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Book: You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
