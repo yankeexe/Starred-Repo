@@ -113,7 +113,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Modern Javascript Tutorial](https://github.com/iliakan/javascript-tutorial-en)
 * [Javascript Style Guide](https://github.com/standard/standard)
 * [scroll 33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
-* [wtfjs](A list of funny and tricky JS examples)
+* [wtfjs](https://github.com/denysdovhan/wtfjs)
 
 
 ## Linux 
