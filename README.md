@@ -31,6 +31,7 @@ Collection of Awesome Repos based on topic :zap:
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* [Practical AI](https://github.com/GokuMohandas/practicalAI)
 
 
 ## Backend
@@ -99,6 +100,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [System Design Interview](https://github.com/donnemartin/system-design-primer)
 * [Java Interview](https://github.com/crossoverJie/Java-Interview)
+* [FAQGURU](https://github.com/FAQGURU/FAQGURU)
 
 ## Javascript
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
