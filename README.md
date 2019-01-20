@@ -157,6 +157,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Awesome SelfHosting](https://github.com/Kickball/awesome-selfhosted)
 * [Lemonade Stand: Financial Support for Open Source](https://github.com/nayafia/lemonade-stand)
 * [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev#next-generation-js)
 
 
 ## Utilities
