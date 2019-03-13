@@ -192,4 +192,5 @@ Collection of Awesome Repos based on topic :zap:
 * [Paper with Codes: Research Papers](https://github.com/zziz/pwc)
 * [Free for Dev: A list of SaaS, PaaS and IaaS free tiers](https://github.com/ripienaar/free-for-dev#analytics-events-and-statistics)
 * [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+* [Awesome Personal Blogs - Blogs by different programmers](https://github.com/jkup/awesome-personal-blogs)
 
