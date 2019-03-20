@@ -82,6 +82,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Heroku Build Pack for create-react-app](https://github.com/mars/create-react-app-buildpack)
 * [React Bits - React Tips and Tricks](https://github.com/vasanthk/react-bits)
 * [Frontend Bootcamp by Microsoft](https://github.com/Microsoft/frontend-bootcamp)
+* [CSS in JS](https://github.com/MicheleBertoli/css-in-js)
 
 ## GitHub
 * [Learn Git Branching](https://github.com/pcottle/learnGitBranching)
