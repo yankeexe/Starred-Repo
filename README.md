@@ -89,6 +89,7 @@ Collection of Awesome Repos based on topic :zap:
 * [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [How to use GitHub](https://github.com/llSourcell/How-to-Use-GitHub)
 * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+* [GitHub Commit Guide](https://github.com/RomuloOliveira/commit-messages-guide)
 
 ## Interview
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -120,6 +121,7 @@ Collection of Awesome Repos based on topic :zap:
 * [scroll 33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 * [wtfjs](https://github.com/denysdovhan/wtfjs)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js)
 
 
 ## Linux 
