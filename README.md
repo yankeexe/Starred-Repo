@@ -1,5 +1,5 @@
 # Starred Repo
-Collection of Awesome Repos based on topic :zap:
+Collection of Awesome Repos by topic :zap:
 
 # Table of Contents
 * [AI | ML | DL](#ai-ml-dl)
