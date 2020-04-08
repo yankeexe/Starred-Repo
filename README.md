@@ -32,6 +32,7 @@ Collection of Awesome Repos by topic :zap:
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Practical AI](https://github.com/GokuMohandas/practicalAI)
+* [Background-Matting](https://github.com/senguptaumd/Background-Matting)
 
 
 ## Backend
